@@ -3,3 +3,4 @@
 This is a data analysis project of NanJing's tenemental house, and I make a  demo by using pyecharts and matplotlib
 
 # 结果展示
+![image](https://github.com/4timespassedCET4/NJ_House_Analysis/blob/master/1.png)
