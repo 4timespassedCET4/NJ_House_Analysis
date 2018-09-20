@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-# 加载分析过程中一些必要的包
+# 加载分析过程中一些必要的Python包
 
 import pandas as pd
 import numpy as np
