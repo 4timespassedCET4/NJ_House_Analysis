@@ -6,7 +6,7 @@ import re
 import time
 import pypinyin
 
-# 加载爬虫所需要的一些包
+# 加载爬虫所需要的一些python包
 import requests
 from lxml import etree
 from tqdm import tqdm  # 进度条
