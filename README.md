@@ -3,4 +3,13 @@
 This is a data analysis project of NanJing's tenemental house, and I make a  demo by using pyecharts and matplotlib
 
 # 结果展示
+## 房屋户型分布前十
 ![image](https://github.com/4timespassedCET4/NJ_House_Analysis/blob/master/1.png)
+## 各行政区房屋租赁数量分布及占比
+![image](https://github.com/4timespassedCET4/NJ_House_Analysis/blob/master/2.png)
+## 各行政区租房价格
+![image](https://github.com/4timespassedCET4/NJ_House_Analysis/blob/master/3.png)
+## 房屋不同朝向数量
+![image](https://github.com/4timespassedCET4/NJ_House_Analysis/blob/master/4.png)
+## 房屋出租面积分布直方图
+![image](https://github.com/4timespassedCET4/NJ_House_Analysis/blob/master/5.png)
